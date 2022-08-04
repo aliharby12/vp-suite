@@ -7,3 +7,8 @@ sudo ./run.sh up
 ```bash
 sudo ./run.sh down
 ```
+
+## To run the file separately
+```bash
+sudo docker-compose run app server.py 
+```
