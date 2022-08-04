@@ -1,0 +1,2 @@
+vp-suite==0.0.9
+protobuf==3.20.*
